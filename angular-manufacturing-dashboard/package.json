@@ -1,0 +1,11 @@
+{
+    "name": "angular-manufacturing-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-manufacturing-ui": "file:../stencil-manufacturing-ui/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
